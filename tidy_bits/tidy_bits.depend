@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1717230528 source:/home/kali/Desktop/coding/problems/toph/tidy_bits/main.cpp
+	<iostream>
+	<bitset>
+

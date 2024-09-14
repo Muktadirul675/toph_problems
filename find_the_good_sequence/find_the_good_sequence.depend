@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1717219325 source:/home/kali/Desktop/coding/problems/toph/find_the_good_sequence/main.cpp
+	<iostream>
+	<stack>
+	<math.h>
+
